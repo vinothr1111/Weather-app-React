@@ -5,4 +5,4 @@ function App (){
   return <Weather/>
 }
 
-export default Weather
+export default App
